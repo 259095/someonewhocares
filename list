@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 21 Oct 2020 at 07:41:09 GMT
+# Last updated: Thu, 29 Oct 2020 at 18:44:09 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -65,6 +65,21 @@
 # redirecting any requests to that host to your own computer. For example
 # this will prevent your browser from downloading banner ads, or sending
 # your information back to a company.
+
+#<localhost>
+127.0.0.1	localhost
+127.0.0.1	localhost.localdomain
+255.255.255.255	broadcasthost
+::1		localhost
+127.0.0.1	local
+::1		ip6-localhost ip6-loopback
+fe00::0		ip6-localnet
+ff00::0		ip6-mcastprefix
+ff02::1		ip6-allnodes
+ff02::2		ip6-allrouters
+ff02::3		ip6-allhosts
+#fe80::1%lo0	localhost
+#</localhost>
 
 #<shock-sites>
 # For example, to block unpleasant pages, try:
@@ -2224,6 +2239,7 @@ bhyuu.com
 bighow.net
 binsservicesonline.info
 bir.snjack.info
+bitcoin-upappl.com
 bitcoinplus.com
 bj02.cww.com
 blackhat.be
@@ -2942,6 +2958,7 @@ ui.oix.net
 ultra2.tsinghua.edu.cn
 unetbootin.net
 unetbootin.org
+unitdotto.club
 unk.vver.kiae.rr
 unknown.counsellor.gov.cn
 update.theplacetoupdating.pw
@@ -2998,6 +3015,7 @@ winsupportit.club
 wk4x5rdtoz2tn0.com
 wm.maxysearch.info
 womo.corrmedic.ru
+worldnewstoday.site
 wrontonshatbona.pro
 ws.xjb.ac.cn
 ws05.crypto-loot.com
