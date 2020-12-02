@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 10 Nov 2020 at 00:37:15 GMT
+# Last updated: Wed, 25 Nov 2020 at 08:10:27 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -65,6 +65,21 @@
 # redirecting any requests to that host to your own computer. For example
 # this will prevent your browser from downloading banner ads, or sending
 # your information back to a company.
+
+#<localhost>
+127.0.0.1	localhost
+127.0.0.1	localhost.localdomain
+255.255.255.255	broadcasthost
+::1		localhost
+127.0.0.1	local
+::1		ip6-localhost ip6-loopback
+fe00::0		ip6-localnet
+ff00::0		ip6-mcastprefix
+ff02::1		ip6-allnodes
+ff02::2		ip6-allrouters
+ff02::3		ip6-allhosts
+#fe80::1%lo0	localhost
+#</localhost>
 
 #<shock-sites>
 # For example, to block unpleasant pages, try:
@@ -2167,6 +2182,7 @@
  andrionmobileapp.bid
  android.bigresource.com
  androiddev.orkitra.com
+ aneralflas.club
  angeing.info
  anouslab.cmail20.com
  answerhub.com
@@ -2213,6 +2229,7 @@
  b.webwise.com
  b.webwise.net
  b.webwise.org
+ backlusjumpdur.club
  badmactogoodmac.space
  badmactogoodmac.tech
  beloysoff.ru
@@ -2252,7 +2269,6 @@
  ca8g5.win
  cablyshaw.com
  cafecoc.com
- cahoots.com
  callawaypos.com
  callbling.com
  cambonanza.com
@@ -2428,6 +2444,7 @@
  himicrosoft.com
  hintonsfeetred.info
  honouncil.info
+ hot24profit.life
  hotchix.servepics.com
  how-tosolve.com
  howtobuildsoftware.com
@@ -2575,6 +2592,7 @@
  meta.osqa.net
  metcoc5cm.clarent.com
  metedbuenge.info
+ mfkmyve.retrocoder.org
  microsoft.com-it2-dye1.premi-fedelta-degli-utenti.us
  microsoft.com-msoft52.info
  microsoftsecurity-experts7565.xyz
@@ -2601,6 +2619,7 @@
  mp3red.cc
  mpkhi-bk.multi.net.pk
  mplayerdownloader.com
+ ms-shopplus.su
  ms127.0.0.101341.club
  msgstore2.pldtprv.net
  mshelp247.weebly.com
@@ -2806,6 +2825,7 @@
  s4d.in
  safedownloadcenter.com
  safedownloadsrus166.com
+ saleprice.su
  saletrybest.su
  sazadubo48.bid
  sc-spyware.com
@@ -3049,6 +3069,7 @@
  www.bankingservices.xyz
  www.bankofamerica.com.ok.am
  www.be4life.ru
+ www.bicoinsprofit.com
  www.blender3d.fr
  www.blenz-me.net
  www.bumerang.cc
@@ -3258,6 +3279,7 @@
  yrwap.cn
  zarozinski.info
  zb1.zeroredirect1.com
+ zelaiu.tradinginthefinancial.live
  zenigameblinger.org
  zettapetta.com
  zfotos.fromru.su
@@ -7537,6 +7559,7 @@
  c.pt.msn.com
  c.ru.msn.com
  c.se.msn.com
+ c.seznam.cz
  c.sg.msn.com
  c.silvinst.com
  c.th.msn.com
@@ -7779,6 +7802,7 @@
  cicero-mit.com
  cigape.net
  cikkelek.eu
+ cileni.seznam.cz
  citepucevasuxuqesu.ga
  cithingy.info
  citrio.com
@@ -8774,6 +8798,7 @@
  h-afnetwww.adshuffle.com
  h.admob.com
  h.ppjol.com
+ h.seznam.cz
  hadik.info
  halfords.ukrpts.net
  haouzy.info
@@ -8914,6 +8939,7 @@
  i.qitrck.com
  i.radzolo.com
  i.securecontactinfo.com
+ i.seznam.cz
  i.simpli.fi
  i.static.zaplata.bg
  i.total-media.net
@@ -11052,6 +11078,7 @@
  ssp.adplus.co.id
  ssp.anyclip-media.com
  ssp.imedia.cz
+ ssp.seznam.cz
  ssp.streamrail.net
  sspcash.adxcore.com
  st.blogads.com
