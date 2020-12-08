@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 25 Nov 2020 at 08:10:27 GMT
+# Last updated: Sat, 05 Dec 2020 at 01:47:43 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -18,7 +18,7 @@
 # blocks most advertising you would otherwise be subjected to on the 
 # internet. 
 
-# There is a version of this file that uses 127.0.0.1 instead of 0.0.0.0 
+# There is a version of this file that uses 127.0.0.1 instead of  
 # available at http://someonewhocares.org/hosts/.
 # On some machines this may run minutely faster, however the zero version
 # may not be compatible with all systems. 
@@ -65,6 +65,7 @@
 # redirecting any requests to that host to your own computer. For example
 # this will prevent your browser from downloading banner ads, or sending
 # your information back to a company.
+
 
 #<shock-sites>
 # For example, to block unpleasant pages, try:
@@ -1913,6 +1914,7 @@
  virtualbartendertrack.beer.com
  vis.sexlist.com
  visit.theglobeandmail.com # Visits to theglobeandmail.com
+ vitals.vercel-analytics.com
  voken.eyereturn.com
  vs.dmtracker.com
  vsii.spinbox.net
@@ -7469,6 +7471,7 @@
  bsads.looksmart.com
  bsnj.eyeblaster.akadns.net
  bt.linkpulse.com
+ btkiwisys.com
  budapest1873.net
  buf.lemonde.fr
  bumerangshowsites.hurriyet.com.tr
@@ -8306,6 +8309,7 @@
  emily.tncrun.net
  emisja.adsearch.pl
  emisja.contentstream.pl
+ en.btc-trader-app.club
  engage.everyone.net
  engage.speedera.net
  engager.tmg.nl
@@ -8885,6 +8889,7 @@
  hosting.adjug.com
  hot-daily-deal.com
  hot-product-hangout.com
+ hot24profit.life
  hotbar.dgndesign.com
  hotchatdate.com
  hotgiftzone.com
@@ -9149,6 +9154,7 @@
  iwantmyfreecash.com
  iwantmyfreelaptop.com
  iwantmygiftcard.com
+ iwbubcs.v01aelux.space
  iwstat.tudou.com
  j.adlooxtracking.com
  j.admob.com
@@ -11882,6 +11888,7 @@
  webtrekk.net
  webuysupplystore.mooo.com
  webwise.bt.com
+ wedleaunocomp.work
  wegetpaid.net
  wegotmedia.co
  welcome.faptitans.com
@@ -12106,6 +12113,7 @@
  www.bestshopperrewards.com
  www.bet365.com
  www.bhclicks.com
+ www.bicoinsprofit.com
  www.bidtraffic.com
  www.bidvertiser.com
  www.bigbangempire.com
@@ -12114,6 +12122,7 @@
  www.biggestgiftrewards.com
  www.binarysystem4u.com
  www.bitcoadz.io
+ www.bitlabeurope.com
  www.bitmedia.io
  www.bitraffic.com
  www.biz-offer.com
@@ -12548,6 +12557,7 @@
  www.macombdisplayads.com
  www.market-buster.com
  www.marketing-rewardpath.com
+ www.marketrip.co
  www.mastertracks.be
  www.maxbounty.com
  www.maxonclick.com
@@ -12767,6 +12777,7 @@
  www.syncaccess.net
  www.system-live-media.cz
  www.tao123.com
+ www.tbitcoin.me
  www.tcimg.com
  www.techconfigformat.com
  www.terraclicks.com
@@ -12802,6 +12813,7 @@
  www.trackadvertising.net
  www.tracklead.net
  www.tradeadexchange.com
+ www.tradelax.com
  www.tradem.com
  www.trafficnetworkads24.com
  www.trafficrevenue.net
