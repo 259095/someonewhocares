@@ -7,7 +7,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - run: |
-          apt update && apt install wget -y
+          sudo apt-get update && sudo apt-get install wget -y
           wget https://someonewhocares.org/hosts/zero/hosts
           sed -i '/<localhost>/,/<\/localhost>/d' hosts
           sed -i 's/0.0.0.0//g' hosts
