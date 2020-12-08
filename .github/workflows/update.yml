@@ -7,13 +7,13 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - run: |
-          wget https://someonewhocares.org/hosts/zero/hosts -O list
-          sed -i '/<localhost>/,/<\/localhost>/d' list
-          sed -i 's/0.0.0.0//g' list
           git config user.name github-actions
           git config user.email github-actions@github.com
           git config pull.rebase true
           git pull origin workflow
+          wget https://someonewhocares.org/hosts/zero/hosts -O list
+          sed -i '/<localhost>/,/<\/localhost>/d' list
+          sed -i 's/0.0.0.0//g' list
           git add .
           git commit -m "updated"
           git push origin HEAD:workflow
