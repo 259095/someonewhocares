@@ -1,3 +1,5 @@
+![update](https://github.com/259095/someonewhocares/workflows/update/badge.svg?branch=main)
+
 This hosts file is brought to you by Dan Pollock and can be found 
 at http://someonewhocares.org/hosts/
 
