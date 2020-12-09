@@ -1,7 +1,7 @@
 name: update
 on: 
   schedule:
-    - cron "0 6 * * *"
+    - cron "5 * * * *"
 
 jobs:
   test:
@@ -12,10 +12,10 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git config pull.rebase true
-          git pull origin workflow
+          git pull origin main
           wget https://someonewhocares.org/hosts/zero/hosts -O list
           sed -i '/<localhost>/,/<\/localhost>/d' list
           sed -i 's/0.0.0.0//g' list
           git add .
           git commit -m "updated"
-          git push origin HEAD:workflow
+          git push origin HEAD:main
