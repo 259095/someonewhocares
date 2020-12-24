@@ -17,7 +17,6 @@ jobs:
           wget https://someonewhocares.org/hosts/zero/hosts -O list
           sed -i '/<localhost>/,/<\/localhost>/d' list
           sed -i 's/0.0.0.0//g' list
-          echo \#`date +%s` >> list
           git add .
           git commit -m "updated"
           git push origin HEAD:main
