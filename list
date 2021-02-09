@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Fri, 05 Feb 2021 at 00:49:26 GMT
+# Last updated: Tue, 09 Feb 2021 at 02:05:56 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -7720,6 +7720,7 @@
  cdn.nsimg.net
  cdn.onescreen.net
  cdn.onthe.io
+ cdn.owebanalytics.com
  cdn.palomatik.info
  cdn.pickyopahs.com
  cdn.sagent.io
