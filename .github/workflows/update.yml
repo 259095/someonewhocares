@@ -14,9 +14,14 @@ jobs:
           git config user.email github-actions@github.com
           git config pull.rebase true
           git pull origin main
-          wget https://someonewhocares.org/hosts/zero/hosts -O list
-          sed -i '/<localhost>/,/<\/localhost>/d' list
-          sed -i 's/0.0.0.0//g' list
-          git add .
-          git commit -m "updated"
-          git push origin HEAD:main
+          wget https://someonewhocares.org/hosts/zero/hosts -O list.tmp
+          if [[ $(shasum list) != $(shasum list.tmp) ]]; then
+            sed -i '/<localhost>/,/<\/localhost>/d' list.tmp
+            sed -i 's/0.0.0.0//g' list.tmp
+            mv list.tmp list
+            git add .
+            git commit -m "updated"
+            git push origin HEAD:main
+          else
+            echo "No changes"
+          fi
