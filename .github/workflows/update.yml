@@ -19,7 +19,7 @@ jobs:
           sed -i 's/0.0.0.0//g' list.tmp
           shasum list
           shasum list.tmp
-          if [[ $(shasum list | awk '{print $1}) != $(shasum list.tmp | aws '{print $1}') ]]; then
+          if [[ $(shasum list | awk '{print $1}') != $(shasum list.tmp | aws '{print $1}') ]]; then
             echo "loop1"
             rm list.tmp
             exit 0
