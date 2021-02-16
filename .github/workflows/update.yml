@@ -17,14 +17,10 @@ jobs:
           wget https://someonewhocares.org/hosts/zero/hosts -O list.tmp
           sed -i '/<localhost>/,/<\/localhost>/d' list.tmp
           sed -i 's/0.0.0.0//g' list.tmp
-          shasum list
-          shasum list.tmp
           if [[ $(shasum list | awk '{print $1}') == $(shasum list.tmp | awk '{print $1}') ]]; then
-            echo "No changes"
             rm list.tmp
             exit 0
           else
-            echo "Changes!"
             mv list.tmp list
             git add .
             git commit -m "updated"
