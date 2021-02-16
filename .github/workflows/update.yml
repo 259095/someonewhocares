@@ -5,10 +5,11 @@ on:
     - cron:  '14 03 */1 * *'
 
 jobs:
-  test:
+  update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - name: Check for file updates
+        uses: actions/checkout@v2
       - run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
