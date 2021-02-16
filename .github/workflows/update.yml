@@ -18,9 +18,11 @@ jobs:
           sed -i '/<localhost>/,/<\/localhost>/d' list.tmp
           sed -i 's/0.0.0.0//g' list.tmp
           if [[ $(shasum list) == $(shasum list.tmp) ]]; then
+            echo "loop1"
             rm list.tmp
             exit 0
           else
+            echo "loop2"
             mv list.tmp list
             git add .
             git commit -m "updated"
