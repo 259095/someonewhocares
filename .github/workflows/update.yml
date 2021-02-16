@@ -19,12 +19,12 @@ jobs:
           sed -i 's/0.0.0.0//g' list.tmp
           shasum list
           shasum list.tmp
-          if [[ $(shasum list | awk '{print $1}') != $(shasum list.tmp | aws '{print $1}') ]]; then
-            echo "loop1"
+          if [[ $(shasum list | awk '{print $1}') == $(shasum list.tmp | awk '{print $1}') ]]; then
+            echo "No changes"
             rm list.tmp
             exit 0
           else
-            echo "loop2"
+            echo "Changes!"
             mv list.tmp list
             git add .
             git commit -m "updated"
