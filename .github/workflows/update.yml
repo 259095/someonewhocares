@@ -19,11 +19,11 @@ jobs:
           sed -i 's/0.0.0.0//g' list.tmp
           shasum list
           shasum list.tmp
-          if [[ $(shasum list) != $(shasum list.tmp) ]]; then
+          if [[ $(shasum list) == $(shasum list.tmp) ]]; then
+            rm list.tmp
+          else
             mv list.tmp list
             git add .
             git commit -m "updated"
             git push origin HEAD:main
-          else
-            echo "No changes"
           fi
