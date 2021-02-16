@@ -17,6 +17,8 @@ jobs:
           wget https://someonewhocares.org/hosts/zero/hosts -O list.tmp
           sed -i '/<localhost>/,/<\/localhost>/d' list.tmp
           sed -i 's/0.0.0.0//g' list.tmp
+          shasum list
+          shasum list.tmp
           if [[ $(shasum list) != $(shasum list.tmp) ]]; then
             echo "loop1"
             rm list.tmp
