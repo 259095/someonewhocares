@@ -11,20 +11,25 @@ jobs:
       - name: Check for file updates
         uses: actions/checkout@v2
       - run: |
+          echo "Checkout existing file..."
           git config user.name github-actions
           git config user.email github-actions@github.com
           git config pull.rebase true
           git pull origin main
+          echo "Download new file..."
           wget https://someonewhocares.org/hosts/zero/hosts -O list.tmp
           sed -i '/<localhost>/,/<\/localhost>/d' list.tmp
           sed -i 's/0.0.0.0//g' list.tmp
+          echo "Check if file needs updating..."
           if [[ $(shasum list | awk '{print $1}') == $(shasum list.tmp | awk '{print $1}') ]]; then
+            echo "Repository up to date!"
             rm list.tmp
             exit 0
           else
+            echo "Repository needs updating..."
             mv list.tmp list
             git add .
             git commit -m "updated"
-            git push origin HEAD:main
+            git push origin HEAD:main && echo "Repository updated!"
             exit 0
           fi
