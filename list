@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 06 Apr 2021 at 02:10:27 GMT
+# Last updated: Wed, 07 Apr 2021 at 04:26:22 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2292,7 +2292,6 @@
  cleanmobilephone.com
  click.get-answers-fast.com
  clicktripz.com
- clien.net
  clonezilla.es
  clonezilla.fr
  cnbc.com-article906773.us
@@ -2831,6 +2830,8 @@
  ryanrhodes.net
  s-41.algovid.com
  s.pubmine.com
+ s3-ap-southeast-1-amazonaws.com
+ s3-ap-southeast-2-amazonaws.com
  s4d.in
  safedownloadcenter.com
  safedownloadsrus166.com
@@ -11264,8 +11265,6 @@
  s1.cz.adocean.pl
  s1.gratkapl.adocean.pl
  s2.buysellads.com
- s3-ap-southeast-1-amazonaws.com
- s3-ap-southeast-2-amazonaws.com
  s3.adbers.com
  s3.buysellads.com
  s3.pfp.sina.net
