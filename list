@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Fri, 14 May 2021 at 07:11:22 GMT
+# Last updated: Mon, 17 May 2021 at 03:14:32 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -394,6 +394,7 @@
  ai087.insightexpress.com
  ai113.insightexpressai.com
  ai125.insightexpressai.com
+ aksecure.imrworldwide.com
  alert.mac-notification.com
  alpha.easy-hit-counters.com
  amateur.xxxcounter.com
@@ -514,9 +515,11 @@
  cashcounter.com
  cb1.counterbot.com
  ccleaner.fr
+ cdn-gl.imrworldwide.com
  cdn-social.janrain.com
  cdn.decibelinsight.net
  cdn.doublepimpssl.com
+ cdn.imrworldwide.com
  cdn.oggifinogi.com
  cdn.simpleanalytics.io
  cdn.taboolasyndication.com
@@ -1349,7 +1352,11 @@
  sdogiu.bestamazontips.com
  se.sitestat.com
  searchadv.com
+ secure-dcr.imrworldwide.com
+ secure-drm.imrworldwide.com
  secure-gg.imrworldwide.com
+ secure-it.imrworldwide.com
+ secure-us.imrworldwide.com
  secure.quantserve.com
  sekel.ch
  servedby.valuead.com
@@ -6985,6 +6992,7 @@
  aka-cdn-ns.adtech.de
  aka-cdn-ns.adtechus.com
  aka-cdn.adtechus.com
+ aka.ms-ads.co
  akaads-espn.starwave.com
  akamai.invitemedia.com
  ako.cc
@@ -7850,6 +7858,7 @@
  cdnt.yottos.com
  cdnw.ringtonepartner.com
  cds.adecn.com
+ cds.taboola.com
  ce.lijit.com
  cecash.com
  ced.sascdn.com
@@ -9875,6 +9884,7 @@
  mastertracks.be
  match.ads.betweendigital.com
  match.adsrvr.org
+ match.taboola.com
  matomy.adk2.co
  matrix.mediavantage.de
  maxads.ruralpress.com
@@ -10748,6 +10758,7 @@
  pletyka.eu
  ploaz54.com
  pluszcafe.hu
+ pm.adsafeprotected.com
  pm.w55c.net
  pmelon.com
  pmstrk.mercadolivre.com.br
@@ -12035,6 +12046,7 @@
  tpienquete.com
  tps.doubleverify.com
  tps10216.doubleverify.com
+ tps20519.doubleverify.com
  tps30.doubleverify.com
  tps31.doubleverify.com
  tr.bigpoint.com
