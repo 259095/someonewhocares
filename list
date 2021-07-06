@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sat, 26 Jun 2021 at 00:06:04 GMT
+# Last updated: Mon, 05 Jul 2021 at 03:34:39 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -429,6 +429,7 @@
  api2.murdoog.com
  apiadapter.ad5track.com
  apis.murdoog.com
+ app-analytics-v2.snapchat.com
  app-analytics.snapchat.com
  app.yesware.com
  apple.com-onlinesupport.host
@@ -2750,7 +2751,6 @@
  pdns.nudt.edu.cn
  personalantispy.com
  petra.nic.gov.jo
- phatthalung.go.th
  phorm.biz.tr
  phorm.ch
  phorm.cl
@@ -8575,6 +8575,7 @@
  eventtracker.videostrip.com
  evroteplo.ru
  excellent.michaelanthonyrobinson.com
+ exchange.scalemonk.com
  exclusivegiftcards.com
  exits1.webquest.net
  exits2.webquest.net
@@ -11320,6 +11321,7 @@
  sb.scorecardresearch.com
  sc1.admob.com
  sc9.admob.com
+ scalemonk.com
  scdown.qq.com
  scegli-vinci.it
  scgis.co.uk
