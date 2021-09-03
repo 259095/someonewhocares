@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 31 Aug 2021 at 22:09:22 GMT
+# Last updated: Thu, 02 Sep 2021 at 22:22:57 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -768,6 +768,7 @@
  dclk.haaretz.co.il
  dclk.themarker.com
  dclk.themarketer.com
+ de-config.sensic.net
  de.sitestat.com
  de.tynt.com
  def.dev-nano.com
@@ -2926,6 +2927,7 @@
  stacksee.lastestapk.com
  standardsandpraiserepurpose.com
  start.qip.ru
+ startmarket.su
  stats.oix.com
  statutorjuihui.site
  steelbitepro24.com
