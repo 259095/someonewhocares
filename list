@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 30 Nov 2021 at 18:25:05 GMT
+# Last updated: Wed, 01 Dec 2021 at 20:51:24 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -6818,6 +6818,7 @@
  adrunnr.com
  ads-a.juicyads.com
  ads-adseast.yldbt.com
+ ads-d.viber.com
  ads-de.spray.net
  ads-dev.youporn.com
  ads-direct.prodigy.net
@@ -6933,6 +6934,7 @@
  ads.aversion2.com
  ads.avocarrot.com
  ads.aws.sitepoint.com
+ ads.aws.viber.com
  ads.azjmp.com
  ads.b10f.jp
  ads.baazee.com
@@ -6992,6 +6994,7 @@
  ads.cbc.ca
  ads.cc-dt.com
  ads.cdfreaks.com
+ ads.cdn.viber.com
  ads.cdnow.com
  ads.centraliprom.com
  ads.cgchannel.com
@@ -8465,6 +8468,7 @@
  amplifypixel.outbrain.com
  amrytt.adk2x.com
  ams1-ib.adnxs.com
+ ams1-mobile.adnxs.com
  amscdn.btrll.com
  amusun.com
  an.tacoda.net
@@ -8513,6 +8517,7 @@
  api.content.ad
  api.linkgist.com
  api.linkz.net
+ api.mixpanel.com
  api.opencandy.com
  api.optnmnstr.com
  api.sagent.io
@@ -11186,6 +11191,7 @@
  loboclick.com
  local-download.com
  local.promoisland.net
+ locp-ir.viber.com
  log.feedjit.com
  log.olark.com
  log.outbrain.com
@@ -11421,6 +11427,7 @@
  mediapst.adbureau.net
  medias.clicks4ads.com
  medias.europacash.com
+ mediation.adnxs.com
  mediative.ca
  mediative.com
  mediauk.247realmedia.com
@@ -12607,6 +12614,7 @@
  rmcdn.f.2mdn.net
  rmedia.boston.com
  rmm1u.checkm8.com
+ rmp.rakuten.com
  rms.admeta.com
  rmt-downloads.com
  ro.bbelements.com
@@ -12695,6 +12703,8 @@
  rya.rockyou.com
  ryadqsgyfwx.cinci.rr.com
  s-adserver.sandbox.cxad.cxense.com
+ s-bid.rmp.rakuten.com
+ s-clk.rmp.rakuten.com
  s.ad121m.com
  s.ad131m.com
  s.admob.com
