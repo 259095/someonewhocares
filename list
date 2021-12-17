@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 07 Dec 2021 at 19:07:40 GMT
+# Last updated: Fri, 17 Dec 2021 at 00:43:02 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1158,7 +1158,6 @@
  mx.iesnare.com
  mx.iovation.com
  mybbc-analytics.files.bbci.co.uk
- mystats.com
  nedstat.s0.nl
  net-radar.com
  nethit-free.nl
