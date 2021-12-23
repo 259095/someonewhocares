@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Fri, 17 Dec 2021 at 00:43:02 GMT
+# Last updated: Wed, 22 Dec 2021 at 07:03:12 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2260,6 +2260,7 @@
  c.webwise.com
  c.webwise.net
  c.webwise.org
+ c1i.su
  ca8g5.win
  cablyshaw.com
  cafecoc.com
