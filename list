@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 15 Mar 2022 at 23:38:19 GMT
+# Last updated: Mon, 04 Apr 2022 at 18:17:04 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1392,6 +1392,7 @@
  us.2.cqcounter.com
  us.cqcounter.com
  usa.nedstat.net
+ users.maxcluster.net
  v1.nedstatbasic.net
  v8.analytics.pinsightmedia.com
  v8engine.pinsightmedia.com
