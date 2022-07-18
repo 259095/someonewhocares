@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 11 Jul 2022 at 21:35:00 GMT
+# Last updated: Mon, 18 Jul 2022 at 01:54:20 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -371,6 +371,7 @@
  an.mlb.com
  analytics-ingress-global.bitmovin.com
  analytics-static.ugc.bazaarvoice.com
+ analytics.foresee.com
  analytics.global.sky.com
  analytics.msnbc.msn.com
  analytics.ooyala.com
@@ -1939,6 +1940,7 @@
  premium-live-scan.com
  premiumvideoupdates.com
  prk.roverinvolv.bid
+ profit-btc.org
  proflashdata.com			# Facebook trojan
  projectpoi.com
  provenfeedback.com
@@ -1981,6 +1983,7 @@
  smile-angel.com
  software-updates.co
  software-wenc.co.cc
+ solarswitch4all.com
  solutionscore.com
  solveseek.com
  sonatns.sonatrach.dz
@@ -2069,6 +2072,7 @@
  wikidevs.com
  wileprefgurad.net
  willysy.com
+ wizzshop.trade
  wk4x5rdtoz2tn0.com
  wpcgt.comfortykive.xyz
  wrontonshatbona.pro
@@ -8153,7 +8157,6 @@
  static.vertamedia.com
  static.virgul.com
  static.vpptechnologies.com
- static.williamhill.com
  static.wooboo.com.cn
  static.youmi.net
  staticads.btopenworld.com
