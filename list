@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 17 Aug 2022 at 08:29:24 GMT
+# Last updated: Sun, 21 Aug 2022 at 20:36:14 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -8933,6 +8933,7 @@
  service004.adtech.us
  service00x.adtech.fr
  service00x.adtech.us
+ servicer.mgid.com
  services.adtech.fr
  services.adtech.us
  services1.adtech.fr
@@ -10549,6 +10550,7 @@
  zazerygu.pro
  zc1.zeroredirect11.com
  zdads.e-media.com
+ zem.outbrainimg.com
  zemgo.com
  zeroredirect.com
  zeroredirect1.com
