@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Fri, 25 Nov 2022 at 03:22:17 GMT
+# Last updated: Mon, 05 Dec 2022 at 02:16:54 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -855,6 +855,7 @@
  js.hs-analytics.net
  js.revsci.net
  justtrck.com
+ k.clarity.ms
  kissmetrics.com
  kqzyfj.com
  kt4.kliptracker.com
@@ -2246,7 +2247,6 @@
  keepinfit.net
  kevlaardiet.fr
  keybinary.com
- kgvfiivlwyuu.uofgiu
  kiabo.fr
  kiaby.fr
  kiassure.fr
