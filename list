@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 28 Feb 2023 at 20:30:27 GMT
+# Last updated: Wed, 08 Mar 2023 at 02:04:36 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2912,6 +2912,7 @@
  tiplanet.fr
  toknowall.com
  tomorrownewstoday.com	# I'm not sure what it does, but it seems to be associated with a phishing attempt on Facebook
+ toppillstore.com
  toprxshopplace.com
  toptypeonlinetheclicks.icu
  torjackan.info
