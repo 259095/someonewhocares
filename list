@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 14 Mar 2023 at 02:07:17 GMT
+# Last updated: Mon, 20 Mar 2023 at 04:52:38 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1036,7 +1036,7 @@
  s.clickability.com
  s.go-mpulse.net
  s.update.fbsbx.com 
- s.youtube.com				# Blocking this will interfere with video watching history
+ s.youtube.com				# Blocking this will interfere with video watching history and may interfere with Google Podcasts
  s1-tracking.adalyser.com
  s1.shinystat.it
  s10.histats.com
