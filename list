@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 30 Aug 2023 at 02:31:05 GMT
+# Last updated: Wed, 30 Aug 2023 at 22:08:23 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2699,6 +2699,7 @@
  postbox.mos.ru
  postcanada.ship-express.info
  postcanada.ship-priority.info
+ postecan-canpost.updt491.link
  postis.fr
  powertrfic.fr
  ppoi.org
