@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 19 Sep 2023 at 04:25:53 GMT
+# Last updated: Fri, 22 Sep 2023 at 23:00:28 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1567,6 +1567,7 @@
 #<malware-sites>
 
 # sites with known trojans, phishing, or other malware
+
  0.nextyourcontent.com
  05tz2e9.com
  1001paixnidia.fr
