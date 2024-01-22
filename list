@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Thu, 18 Jan 2024 at 22:52:56 GMT
+# Last updated: Sun, 21 Jan 2024 at 21:19:52 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -9724,6 +9724,8 @@
  union.56.com
  union.6.cn
  union.baidu.com
+ unityads.unity.cn
+ unityads.unitychina.cn
  unser-en.de
  unstat.baidu.com
  uole.ad.uol.com.br
