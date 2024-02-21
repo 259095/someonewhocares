@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 20 Feb 2024 at 02:54:05 GMT
+# Last updated: Tue, 20 Feb 2024 at 18:18:39 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2609,6 +2609,7 @@
  neko-scan.fr
  neon-genesis-evangelion-online.fr
  neowordprss.fr
+ netflix-memberships.com
  netflix-updateinfo.com
  netflix.apple-green.net
  netflixca-updateprofilehelp.com
