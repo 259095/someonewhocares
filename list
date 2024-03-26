@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 18 Mar 2024 at 06:18:33 GMT
+# Last updated: Tue, 26 Mar 2024 at 02:12:12 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -3036,7 +3036,6 @@
  traffic-bam.link
  traffic.adwitty.com
  tranisere.fr
- transfer.sh
  trauiqce.click
  trioadvisor.fr
  trk.wizzdeal.trade
@@ -10922,6 +10921,7 @@
 #<yahoo-ad-sites>
 
 # yahoo banner ads
+# If you have trouble with Yahoo email, you may need to comment out these lines
 # us.i1.yimg.com	#Uncomment this to block yahoo images
  in.yimg.com
  us.a1.yimg.com
