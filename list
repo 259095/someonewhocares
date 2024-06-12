@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 10 Jun 2024 at 04:44:40 GMT
+# Last updated: Tue, 11 Jun 2024 at 22:50:55 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2246,6 +2246,7 @@
  hp.myway.com
  hradware.fr
  hsb-canada.com	# phishing site for hsbc.ca
+ https-ticketnotice.com
  huffingtopost.fr
  hunkemoeller.fr
  hunkemuller.fr
