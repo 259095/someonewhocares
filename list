@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sun, 24 Nov 2024 at 18:29:58 GMT
+# Last updated: Sun, 01 Dec 2024 at 00:17:58 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -3194,6 +3194,7 @@
  wolverineworldwide.fr
  worldcommunitygrid.fr
  worldwidefestival.fr
+ wpad # For reference: https://www.youtube.com/watch?v=uwsykPWa5Lc
  wpcgt.comfortykive.xyz
  wrontonshatbona.pro
  ws05.crypto-loot.com
