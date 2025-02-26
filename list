@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sun, 16 Feb 2025 at 01:15:19 GMT
+# Last updated: Tue, 25 Feb 2025 at 06:31:50 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -322,6 +322,7 @@
 # metrics.ticketmaster.com	# interferes with logging in to ticketmaster.com
 # nl.sitestat.com	# may interfere with duo.nl
 # pro.hit.gemius.pl	# May interfere with some video sites
+# s.youtube.com				# Blocking this will interfere with video watching history and may interfere with Google Podcasts
 # services.krxd.net
 # stats.channel4.com
 # t2.hulu.com		# Uncomment to block Hulu.
@@ -1041,7 +1042,6 @@
  s.clickability.com
  s.go-mpulse.net
  s.update.fbsbx.com 
- s.youtube.com				# Blocking this will interfere with video watching history and may interfere with Google Podcasts
  s1-tracking.adalyser.com
  s1.shinystat.it
  s10.histats.com
