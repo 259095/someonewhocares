@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Fri, 02 May 2025 at 15:24:50 GMT
+# Last updated: Fri, 09 May 2025 at 03:41:00 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -8351,6 +8351,7 @@
  ms-shopguide.su
  ms-shopzone.su
  ms.yandex.ru
+ msft-ssp-emea.adnxs.com
  mslinks-downloads.com
  msn-cdn.effectivemeasure.net
  msn.tns-cs.net
