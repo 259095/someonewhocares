@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sat, 14 Jun 2025 at 17:19:04 GMT
+# Last updated: Mon, 30 Jun 2025 at 21:07:28 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -424,6 +424,7 @@
  bigdata.advmob.cn
  bindedge.com
  bindfast.com
+ biomagin.com
  bkrtx.com
  bleachbit.com
  bluekai.com
@@ -1188,6 +1189,7 @@
  statse.webtrendslive.com	# Fortune.com among others
  stl.p.a1.traceworks.com
  straighttangerine.cz.cc
+ stratus.campaign-image.com.cn
  sugoicounter.com
  superstats.com
  sync.bfmio.com
@@ -1568,6 +1570,8 @@
  xtrasizeoriginal.com.br
  xxxcounter.com
  xyz.freelogs.com
+ zc1.campaign-view.com.cn
+ zc1.maillist-manage.com.cn
  zz.cqcounter.com
 #</spyware-sites>
 #<malware-sites>
